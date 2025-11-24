@@ -1,0 +1,11 @@
+Model Information:
+* title:	I_am_Error
+* source:	https://sketchfab.com/3d-models/i-am-error-948d4989ce5d4f559199dfb2dc4518f7
+* author:	kotzlovred (https://sketchfab.com/kotzlovred)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "I_am_Error" (https://sketchfab.com/3d-models/i-am-error-948d4989ce5d4f559199dfb2dc4518f7) by kotzlovred (https://sketchfab.com/kotzlovred) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
